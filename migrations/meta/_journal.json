@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1689068679090,
+      "tag": "0000_thankful_giant_girl",
+      "breakpoints": false
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1689069466817,
+      "tag": "0001_natural_shape",
+      "breakpoints": false
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1689069740607,
+      "tag": "0002_last_morlocks",
+      "breakpoints": false
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1689069866923,
+      "tag": "0003_luxuriant_cammi",
+      "breakpoints": false
+    }
+  ]
+}
